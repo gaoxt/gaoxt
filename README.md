@@ -2,6 +2,6 @@
 
 ### Hello 👋 I'm Galaxy 
 
-> Keep calm and coding.  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+> Keep calm and coding.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 🇨🇳 China 🕹back-end developer
