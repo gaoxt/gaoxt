@@ -7,5 +7,5 @@
  
 **Languages and Tools:** 
 <p align="left">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"> 
+   <img src="https://i.giphy.com/media/JqDcpPX8vWahUny0pE/200.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"> 
 </p>
